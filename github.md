@@ -53,7 +53,7 @@ _Poznámka: Pokud vám bude chybět program git, doinstalujte ho pro Windows z [
 - Vytvořte soubor `index.html`
 - Kromě základní html struktury přidejte nadpis s vaším jménem
 - V Source Control pojmenujte změny například jako `Základ` nebo `Initial commit`.
-- Najeťte myší kousek na řádek pro `Message`
+- Najeťte myší kousek nad řádek pro `Message`
 - Objeví se několik ikonek a tři tečky
 - Ve třech tečkách zvolte `Push` pro nahrání commitu na GitHub
 - Pravděpodobně na vás vyskočí okno s přihlášením do GitHubu

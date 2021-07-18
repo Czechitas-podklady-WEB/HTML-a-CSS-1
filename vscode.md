@@ -4,10 +4,10 @@
 - Ke stažení zde: [code.visualstudio.com](https://code.visualstudio.com/)
 - Ulehčuje nám psaní kódu
 - Osvojte si klávesové zkratky
-	- Uložit `Ctrl/Cmd+S`
-	- Posouvat se po slovech `Ctrl+šipky vlevo/vpravo`, `Ctrl+Shift+šipky vlevo/vpravo`
-	- Prohodit řádky `Alt+šipky nahoru/dolů`
-	- Nástrojová paleta `Ctrl/Cmd+Shift+P`
+  - Uložit `Ctrl/Cmd+S`
+  - Posouvat se po slovech `Ctrl+šipky vlevo/vpravo`, `Ctrl+Shift+šipky vlevo/vpravo`
+  - Prohodit řádky `Alt+šipky nahoru/dolů`
+  - Nástrojová paleta `Ctrl/Cmd+Shift+P`
 - [Psaní hravě](https://www.psanihrave.cz/) – pište všemi 10
 
 ## Projekty
@@ -51,7 +51,7 @@ Czechitas
 
 ## Cvičení 2
 
-1. Přidej odstavec s _lorem ipsum_
+1. Přidej odstavec s _lorem ipsum_ nebo český text z [Blábot](https://www.blabot.cz/cs/capek)
 1. Vytvoř soubor CSS
 1. Podbarvi stránku třeba na růžovo
 1. Změň písmo nadpisů na bezpatkové (bezserifové)

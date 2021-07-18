@@ -41,7 +41,7 @@
 
 ## Cvičení 1
 
-- Vytvořte si ve svém účtu repozitář s názvem `vizitka`
+- Vytvořte si ve svém GitHub účtu repozitář s názvem `vizitka`
 - Otevřete nové okno VS Code (`File>New Window`)
 - V levé liště zvolte ikonku větvičky (Source Control)
 - Pomocí `Clone Repository>Clone from GitHub` propojte VS Code s GitHubem a zvolte příslušný repozitář

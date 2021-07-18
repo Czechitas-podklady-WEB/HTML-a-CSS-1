@@ -4,9 +4,10 @@
 - Ke stažení zde: [code.visualstudio.com](https://code.visualstudio.com/)
 - Ulehčuje nám psaní kódu
 - Osvojte si klávesové zkratky
-	- `Ctrl/Cmd+S`
-	- `Ctrl+šipky vlevo/vpravo`, `Ctrl+Shift+šipky vlevo/vpravo`
-	- `Alt+šipky nahoru/dolů`
+	- Uložit `Ctrl/Cmd+S`
+	- Posouvat se po slovech `Ctrl+šipky vlevo/vpravo`, `Ctrl+Shift+šipky vlevo/vpravo`
+	- Prohodit řádky `Alt+šipky nahoru/dolů`
+	- Nástrojová paleta `Ctrl/Cmd+Shift+P`
 - [Psaní hravě](https://www.psanihrave.cz/) – pište všemi 10
 
 ## Projekty
@@ -17,7 +18,7 @@
 Czechitas
 ├── adela_na_cestach
 └── html_a_css_1
-   ├── vizitka
+   ├── opakovani
    │   ├── index.html
    │   └── style.css
    └── boty
@@ -34,10 +35,10 @@ Czechitas
 
 ## Cvičení 1
 
-1. Vytvoř stránku (`index.html`) ve složce vizitka
+1. Vytvoř stránku (`index.html`) ve složce `opakovani`
 1. Přidej základní html strukturu `!` + `Enter`
-1. Přidej své jméno jako nadpis
-1. Přidej odkaz na svůj e-mail
+1. Přidej nadpis s textem `Opakování`
+1. Přidej odkaz na stránky kurzu
 
 ## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 

@@ -41,6 +41,7 @@
 
 ## Cvičení 1
 
+- Zaregistrujte se na [github.com](https://github.com/)
 - Vytvořte si ve svém GitHub účtu repozitář s názvem `vizitka`
 - Otevřete nové okno VS Code (`File>New Window`)
 - V levé liště zvolte ikonku větvičky (Source Control)

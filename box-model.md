@@ -75,7 +75,7 @@
 - `border: 1px solid aqua`
 - `border-radius`
 - Lze nastavit jednotlivé strany: `border-left: 3px solid silver;`
-- Lze i nastavit konkrétní vlatnost ohraničení pro jednotlivou stranu: `border-right-width: 0;`
+- Lze i nastavit konkrétní vlatnost ohraničení pro každou stranu: `border-right-width: 0;`
 - I `border-radius` s jednou hodnotou je zkratka pro všecky rohy, lze je rozepsat
 - `border-radius: 50%;` vytvoří vizuální kruh, ale prvek zůstává obdélníkem (čtvercem)!
 - Více o `border-radius`: [Jak vytvořit ovál/elipsu](https://jecas.cz/oval), [oblé rohy na steriodech](https://jecas.cz/border-radius)

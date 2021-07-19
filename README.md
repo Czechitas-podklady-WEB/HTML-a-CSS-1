@@ -8,3 +8,5 @@
 - [Vývojářské nástroje](vyvojarske-nastroje.md)
 - [Pozicování](pozicovani.md)
 - [Fork](fork.md)
+- [Dokumentace](dokumentace.md)
+- [Flexbox](flexbox.md)

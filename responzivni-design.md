@@ -60,3 +60,20 @@
 - `@media (min-width: 1025px) { … }`
 - `@media (min-width: 768px) and (max-width: 1025px) { … }`
 - `@media (max-width: 767px) { … }`
+
+## Cvičení 1
+
+- [github.com/Czechitas-podklady-WEB/Cviceni-Media-query-banner](https://github.com/Czechitas-podklady-WEB/Cviceni-Media-query-banner)
+
+## Cvičení 2
+
+- [github.com/Czechitas-podklady-WEB/Cviceni-Media-query-sloupce](https://github.com/Czechitas-podklady-WEB/Cviceni-Media-query-sloupce)
+
+## Cvičení 3
+
+- [github.com/Czechitas-podklady-WEB/Cviceni-Media-query-galerie](https://github.com/Czechitas-podklady-WEB/Cviceni-Media-query-galerie)
+
+## Cvičení 4
+
+- Miniprojekt
+- [github.com/Czechitas-podklady-WEB/Cviceni-Recepty](https://github.com/Czechitas-podklady-WEB/Cviceni-Recepty)

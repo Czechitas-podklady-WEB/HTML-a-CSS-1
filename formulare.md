@@ -12,8 +12,10 @@
 
 ## Další formulářové prvky
 
+- `<label>`
 - `<input type="???">`
 - `<select>` a `<option>` vs `<input type="radio">`
+- [marksheet.io/html-forms.html](https://marksheet.io/html-forms.html)
 
 ## Cvičení 2
 

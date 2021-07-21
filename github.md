@@ -71,7 +71,7 @@ _Poznámka: Pokud vám bude chybět program git, doinstalujte ho pro Windows z [
 
 ## Cvičení 2
 
-- Nastav pro repozitář s vizitkou GitHub Pages
+- Nastavte pro repozitář s vizitkou GitHub Pages
 - Doplňte do html další obsah a nastylujte ho
 - Nezapomeňtě průběžně commitovat a pushovat
 - Výsledek může vypadat například takto:

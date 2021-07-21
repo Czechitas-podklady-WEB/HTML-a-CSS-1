@@ -14,3 +14,5 @@
 - [Formuláře](formulare.md)
 - [Responzivní design](responzivni-design.md)
 - [Obrázek na pozadí](obrazek-na-pozadi.md)
+- [Transformace](transformace.md)
+- [Přechody a animace](prechody-a-animace.md)

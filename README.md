@@ -10,4 +10,6 @@
 - [Fork](fork.md)
 - [Dokumentace](dokumentace.md)
 - [Flexbox](flexbox.md)
+- [Pseudo prvky](pseudo-prvky.md)
+- [Formuláře](formulare.md)
 - [Responzivní design](responzivni-design.md)

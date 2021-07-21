@@ -13,3 +13,4 @@
 - [Pseudo prvky](pseudo-prvky.md)
 - [Formuláře](formulare.md)
 - [Responzivní design](responzivni-design.md)
+- [Obrázek na pozadí](obrazek-na-pozadi.md)

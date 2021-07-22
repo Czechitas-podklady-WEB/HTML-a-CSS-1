@@ -18,3 +18,6 @@
 - [Přechody a animace](prechody-a-animace.md)
 - [Iframe](iframe.md)
 - [Projekt Island](projekt-island.md)
+- [JavaScript](javascript.md)
+- [Práce s grafickým návrhem](prace-s-grafickym-navrhem.md)
+- [Kam dál](kam-dal.md)

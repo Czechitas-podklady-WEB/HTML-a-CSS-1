@@ -15,3 +15,5 @@ const prepniSvetlo = () => {
 
 mujButton.addEventListener('click', prepniSvetlo)
 ```
+
+- Online kurz [czechitas.cz/blog/online-kurz-javascript](https://www.czechitas.cz/blog/online-kurz-javascript)

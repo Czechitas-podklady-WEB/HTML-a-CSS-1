@@ -1,5 +1,7 @@
 # HTML a CSS 1
 
+<time>9. 7. 2021</time>—<time>23. 7. 2021</time>
+
 ## Témata
 
 - [VS Code](vscode.md)
